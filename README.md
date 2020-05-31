@@ -7,5 +7,5 @@ This ongoing portfolio contains projects developed for academic purposes.
 
 #### [An Analysis of Credibly Acused Clergy Data](https://github.com/Skye80/Data-Analysis-Portfolio/blob/master/Analysis%20of%20Credibly%20Accused%20Clergy%20Data.ipynb)
 
-### Boston Crime Data Exploration (ft. machine learning)
+#### Boston Crime Data Exploration (ft. machine learning)
 Coming soon 
