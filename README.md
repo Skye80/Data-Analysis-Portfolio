@@ -6,7 +6,7 @@ This ongoing portfolio contains projects developed for academic purposes.
 ## Data Analysis and Visualization Projects
 
 #### Detroit Crime Data Exploration (ft. machine learning)
-[Part I](https://github.com/Skye80/Data-Analysis-Portfolio/blob/master/Detroit%20Crime%20Data%20Analysis%20-%20Part%20I-checkpoint.ipynb) 
+[Part I](https://github.com/Skye80/Data-Analysis-Portfolio/blob/master/Detroit%20Crime%20Data%20Analysis%20-%20Part%20I-checkpoint.ipynb) - Exploration and Visualization
 
 Part II coming soon!
 
