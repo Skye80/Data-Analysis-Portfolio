@@ -1,6 +1,6 @@
 # Data Analysis Portfolio
 
-This ongoing portfolio contains projects developed for academic and professional development purposes.
+This ongoing portfolio contains projects developed for academic and professional purposes.
 
 
 ## Data Analysis and Visualization Projects
